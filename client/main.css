@@ -1,0 +1,63 @@
+
+.done{
+	text-decoration: strike
+}
+
+.color2{
+	color: red;
+	font-size :2em;
+}
+.privatetask{
+	background: #99ddff;
+}
+
+.backimg{
+	background: url("https://images3.alphacoders.com/906/906161.jpg");
+	background-size: cover;
+}
+
+.backcol{
+	background-color:#ffffff44;
+
+}
+
+.bg-light{
+	background-color:#ffffff44;
+}
+.checked{
+	text-decoration: line-through;
+	color:grey;
+}body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.done{
+	text-decoration: strike
+}
+
+.color2{
+	color: red;
+	font-size :2em;
+}
+.privatetask{
+	background: #99ddff;
+}
+
+.backimg{
+	background: url("https://images3.alphacoders.com/906/906161.jpg");
+	background-size: cover;
+}
+
+.backcol{
+	background-color:#ffffff44;
+
+}
+
+.bg-light{
+	background-color:#ffffff44;
+}
+.checked{
+	text-decoration: line-through;
+	color:grey;
+}
