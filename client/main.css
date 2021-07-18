@@ -30,6 +30,7 @@
 }body {
   padding: 10px;
   font-family: sans-serif;
+  background-color: aqua !important;
 }
 
 .done{
@@ -37,7 +38,7 @@
 }
 
 .color2{
-	color: red;
+	color: rgb(0, 119, 255);
 	font-size :2em;
 }
 .privatetask{
@@ -59,5 +60,5 @@
 }
 .checked{
 	text-decoration: line-through;
-	color:grey;
+	color:rgb(128, 128, 128);
 }

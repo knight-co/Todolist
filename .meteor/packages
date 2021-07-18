@@ -25,3 +25,5 @@ accounts-password
 chuikoff:accounts-ui-bootstrap-4
 jkuester:blaze-bs4
 fortawesome:fontawesome
+useraccounts:bootstrap
+session
