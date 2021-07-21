@@ -1,64 +1,81 @@
 
-.done{
+
+
+.done
+{
 	text-decoration: strike
 }
 
-.color2{
-	color: red;
-	font-size :2em;
-}
-.privatetask{
-	background: #99ddff;
-}
-
-.backimg{
-	background: url("https://images3.alphacoders.com/906/906161.jpg");
-	background-size: cover;
-}
-
-.backcol{
-	background-color:#ffffff44;
-
-}
-
-.bg-light{
-	background-color:#ffffff44;
-}
-.checked{
-	text-decoration: line-through;
-	color:grey;
-}body {
-  padding: 10px;
-  font-family:'Times New Roman', Times, serif;
-  background-color: rgb(195, 0, 255) !important;
-}
-
-.done{
-	text-decoration: strike
-}
-
-.color2{
+.color2
+{
 	color: rgb(0, 119, 255);
 	font-size :2em;
 }
-.privatetask{
+.privatetask
+{
 	background: #99ddff;
 }
 
-.backimg{
+.backimg
+{
 	background: url("https://images3.alphacoders.com/906/906161.jpg");
 	background-size: cover;
 }
 
-.backcol{
+.backcol
+{
 	background-color:#ffffff44;
 
 }
 
-.bg-light{
+.bg-light
+{
 	background-color:#ffffff44;
 }
-.checked{
+.checked
+{
 	text-decoration: line-through;
 	color:rgb(128, 128, 128);
+}
+.done
+{
+	text-decoration: strike
+}
+
+.color2
+{
+	color: red;
+	font-size :2em;
+}
+.privatetask
+{
+	background: #99ddff;
+}
+
+.backimg
+{
+	background: url("https://images3.alphacoders.com/906/906161.jpg");
+	background-size: cover;
+}
+
+.backcol
+{
+	background-color:#ffffff44;
+
+}
+
+.bg-light
+{
+	background-color:#ffffff44;
+}
+.checked
+{
+	text-decoration: line-through;
+	color:grey;
+}
+body 
+{
+  padding: 10px;
+  font-family:'Times New Roman', Times, serif;
+  background-color: rgb(47, 0, 255) !important;
 }
